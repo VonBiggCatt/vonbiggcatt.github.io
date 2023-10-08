@@ -16,7 +16,7 @@
 
 <header class="page-header"  
         role="banner">
-      <h1 class="project-name">Jack</h1>
+      <h1 class="biggcatt.io">Blog</h1>
 </header>
 <main id="content" class="main-content" role="main">
        {{ content }}
