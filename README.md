@@ -1,5 +1,5 @@
 <div id=Header" align="center">
-  <img src="https://imgur.com/a/lLnB2tG">
+  <img src="https://i.imgur.com/NbWflK2.gif">
 </div>
 <div id="badges">
   <a href="biggcatt.io">
