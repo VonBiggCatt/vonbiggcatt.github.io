@@ -1,7 +1,7 @@
 <div id=Header" align="center">
   <img src="https://i.imgur.com/NbWflK2.gif">
   <div id="badges">
-    <a href="biggcatt.io">
+    <a href="https://biggcatt.io">
       <img src="https://img.shields.io/badge/Blog-pink?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog Badge"/>
     </a>
     <a href="https://twitch.tv/ronjonvonbonbiggcatt">
